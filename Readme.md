@@ -1,4 +1,5 @@
 # Optimization Methods Visualization
+![op.png]
 
 An interactive visualization tool for comparing Newton's Method and Gradient Descent optimization algorithms.
 
